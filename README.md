@@ -12,7 +12,7 @@
 ![](https://github-profile-trophy.vercel.app/?username=ArmandoArmiy&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
 ### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+![](Arreglo problemas que no sabía que tenía, con código que no entiendo del todo. Si funciona, es feature, no bug.)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=ArmandoArmiy&icon=0&color=3)](https://visitcount.itsvg.in)
